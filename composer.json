@@ -1,6 +1,8 @@
 {
     "name": "equotix/phe",
-    "description": "no",
+    "type": "library",
+    "description": "for package equotix/phe",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jirayu.K",
